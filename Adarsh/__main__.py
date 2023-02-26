@@ -77,7 +77,7 @@ async def start_services():
         print('                        app runnng on =>> {}'.format(Var.FQDN))
     print('---------------------------------------------------------------------------------------------------------')
     print('Give a star to my repo https://github.com/adarsh-goel/filestreambot-pro  also follow me for new bots')
-    print('---------------------------------------------------------------------------------------------------------')
+    print('---------------------------------GODLIKE---------------------------------------------------------')
     await idle()
 
 if __name__ == '__main__':
